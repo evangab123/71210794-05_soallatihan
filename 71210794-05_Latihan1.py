@@ -2,9 +2,7 @@ def perkalian(a,b):
     x = a * b
     y = str(b)
     for i in range (a-1):
-        print(y, end="")
-        for j in range(1):
-            print(" ", end ="+ ")
+        print(y, end=" + ")
     return x
 
 a = int(input("Masukan Bilangan pertama = "))
