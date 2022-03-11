@@ -18,4 +18,4 @@ for i in range (mk):
         totalpoint += (sks*1)
     
 rumus = totalpoint/totalsks
-print(round(rumus,2))
+print("Nilai IPS anda semester ini",round(rumus,2))
