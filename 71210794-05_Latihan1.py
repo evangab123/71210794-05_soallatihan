@@ -1,6 +1,3 @@
-from re import X
-
-
 def perkalian(a,b):
     x = a * b
     y = str(b)
