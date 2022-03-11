@@ -18,4 +18,4 @@ for i in range (mk):
         totalpoint += (sks*1)
     
 rumus = totalpoint/totalsks
-print(rumus)
+print(round(rumus,2))
