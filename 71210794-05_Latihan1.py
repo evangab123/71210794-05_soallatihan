@@ -1,6 +1,5 @@
 def perkalian(a,b):
     x = a * b
-    y = str(b)
     for i in range (a-1):
         print(b, end=" + ")
     return x
